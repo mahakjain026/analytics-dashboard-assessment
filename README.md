@@ -1,5 +1,7 @@
 # MapUp - Analytics Dashboard Assessment
 
+# URL - https://ev-analytics-dashboard.netlify.app/
+
 ## Overview
 
 The objective of this assessment is to analyze the provided Electric Vehicle (EV) population data and create a frontend dashboard that visualizes key insights about the dataset. This repository contains the necessary data and instructions for you to demonstrate your analytical and dashboard creation skills. Feel free to use any tech stack you want to create the dashboard.
@@ -42,4 +44,4 @@ Your submission will be evaluated based on:
   - vedantp@mapup.ai
   - ajayap@mapupa.ai
   - divyanshs@mapup.ai
-- Finally, please fill out the google form that you received via email to submit the assessment for review before 2024-06-16 11:59 PM.
+- Finally, please fill out the google form that you received via email to submit the assessment Deadline is 11:59 PM on 13/01/2025.
